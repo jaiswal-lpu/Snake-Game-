@@ -18,6 +18,7 @@ Python 3
 Turtle (Python's built-in graphics library)
 time module (for controlling game speed)
 random module (for food positioning)
-
+![image alt](https://github.com/jaiswal-lpu/Snake-Game-/blob/dea7370da1610013e0db0fdc9a793e3e3be8df17/snake%20.png)
+  
 
 
