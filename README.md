@@ -1,5 +1,5 @@
 # Snake-Game-
-🐍Classic Snake Game in Python (Turtle Graphics)
+🐍Classic Snake Game in Python (Turtle Graphics):
 This project is a classic Snake Game implemented in Python using the Turtle graphics library.
 The player controls a snake that moves around the game window, eating food to grow longer while avoiding collisions with the walls and its own body. The game keeps track of the current score and high score, and the speed of the snake increases slightly with every piece of food eaten.
 
